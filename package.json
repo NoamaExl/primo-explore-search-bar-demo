@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
   "name": "primo-explore-search-bar-demo",
   "version": "0.0.1",
@@ -10,16 +9,3 @@
   }
 
 }
-=======
-{
-  "name": "primo-explore-search-bar-demo",
-  "version": "0.0.1",
-  "description": "A Demo search bar directive",
-  "author": "noamamit92",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/noamamit92/primo-explore-altmetrics-widget.git"
-  }
-
-}
->>>>>>> origin/master
